@@ -9,11 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [gopimudumal.netifly.com](gopimudumal.netifly.com)
 
-- 💬 Ask me about **React, Express.js, Mongodb, Node.js, Html,javaScript
+- 💬 Ask me about **React, Express.js, Mongodb, Node.js**
 
 - 📫 How to reach me **gopimudumal99@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hiKUAclYOMZ0R8QshPXOz5IGEeTmt6VZ/view?usp=sharing](https://drive.google.com/file/d/1hiKUAclYOMZ0R8QshPXOz5IGEeTmt6VZ/view?usp=sharing)
 
 - ⚡ Fun fact **I think i am funny**
 

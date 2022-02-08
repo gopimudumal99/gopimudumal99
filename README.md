@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN stack project**
 
-- 🌱 I’m currently learning **React.js**
+- 👯 I’m looking to collaborate with other content creators
 
 - 👨‍💻 All of my projects are available at [gopimudumal.netifly.com](gopimudumal.netifly.com)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gopimudumal99@gmail.com**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **I Love play chess and watching movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

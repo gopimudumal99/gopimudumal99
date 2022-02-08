@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [gopimudumal.netifly.com](gopimudumal.netifly.com)
 
-- 💬 Ask me about **React, Express.js, Mongodb, Node.js, Html, Css, js**
+- 💬 Ask me about **React, Express.js, Mongodb, Node.js, Html,javaScript
 
 - 📫 How to reach me **gopimudumal99@gmail.com**
 
@@ -39,5 +39,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gopimudumal99&show_icons=true&locale=en" alt="gopimudumal99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopimudumal99&" alt="gopimudumal99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gopimudumal99&" alt="gopimudumal99" /></p> 
 
